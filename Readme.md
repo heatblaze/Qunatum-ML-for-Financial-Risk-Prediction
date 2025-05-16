@@ -21,6 +21,7 @@ A futuristic, interactive dashboard for predicting financial credit risk using b
     ```bash
     git clone https://github.com/heatblaze/Qunatum-ML-for-Financial-Risk-Prediction
     ```
+    
     ```bash
     cd quantum-financial-risk-predictor
     ```
@@ -28,11 +29,12 @@ A futuristic, interactive dashboard for predicting financial credit risk using b
 2. **Create and activate a virtual environment (recommended):**
     ```bash
     python -m venv venv
-    # Windows:
-    venv\Scripts\activate
-    # macOS/Linux:
-    source venv/bin/activate
     ```
+    ### Windows:
+    venv\Scripts\activate
+    ### macOS/Linux:
+    source venv/bin/activate
+   
 
 3. **Install dependencies:**
     ```bash
@@ -78,7 +80,7 @@ A futuristic, interactive dashboard for predicting financial credit risk using b
 
 ## 📸 Screenshot
 
-*(Add a screenshot of your app here!)*
+![dashboard](dashboard.png)
 
 ---
 
