@@ -92,6 +92,6 @@ Pull requests and suggestions are welcome! Please open an issue first to discuss
 
 ## 📬 Contact
 
-For questions or collaboration, open an issue or contact [your email/LinkedIn].
+For questions or collaboration, open an issue or contact adityachitransh18@gmail.com.
 
 ---
