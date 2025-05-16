@@ -1,0 +1,19 @@
+quantum-financial-risk-predictor/
+│
+├── app/
+│ └── dashboard.py # Main Streamlit dashboard app
+│
+├── src/
+│ ├── data_preprocessing.py # Data loading and preprocessing
+│ ├── classical_baseline.py # Classical ML model functions
+│ └── quantum_reservoir.py # Quantum ML model functions
+│
+├── data/
+│ └── credit_risk.csv # Example dataset (not included in repo)
+│
+├── .streamlit/
+│ └── config.toml # Custom Streamlit dark theme config
+│
+├── requirements.txt # Python dependencies
+├── README.md # Project documentation (this file)
+└── LICENSE # (Optional) License file
